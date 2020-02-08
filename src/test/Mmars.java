@@ -4,6 +4,7 @@ public class Mmars {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World");
+<<<<<<< Updated upstream
 		
 		
 		
@@ -15,6 +16,10 @@ public class Mmars {
 		System.out.println();
 		
 		
+=======
+		System.out.println();
+
+>>>>>>> Stashed changes
 	}
 
 }
